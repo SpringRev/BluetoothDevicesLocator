@@ -1,0 +1,6 @@
+c:\users\priyvasanthan\documents\visual studio 2013\Projects\BluetoothDevicesLocator\BluetoothDevicesLocator\bin\Debug\BluetoothDevicesLocator.exe.config
+c:\users\priyvasanthan\documents\visual studio 2013\Projects\BluetoothDevicesLocator\BluetoothDevicesLocator\bin\Debug\BluetoothDevicesLocator.exe
+c:\users\priyvasanthan\documents\visual studio 2013\Projects\BluetoothDevicesLocator\BluetoothDevicesLocator\bin\Debug\BluetoothDevicesLocator.pdb
+c:\users\priyvasanthan\documents\visual studio 2013\Projects\BluetoothDevicesLocator\BluetoothDevicesLocator\obj\Debug\BluetoothDevicesLocator.csprojResolveAssemblyReference.cache
+c:\users\priyvasanthan\documents\visual studio 2013\Projects\BluetoothDevicesLocator\BluetoothDevicesLocator\obj\Debug\BluetoothDevicesLocator.exe
+c:\users\priyvasanthan\documents\visual studio 2013\Projects\BluetoothDevicesLocator\BluetoothDevicesLocator\obj\Debug\BluetoothDevicesLocator.pdb
